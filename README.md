@@ -1,1 +1,1 @@
-This is Shaun's first git project!
+This is havenorl's first git project!
